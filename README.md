@@ -4,7 +4,7 @@
 
 # 🐍 Manual de Python 
 
-### 📚 Anotações, conceitos e exemplos para consulta rapida! 
+### 📚 Anotações, conceitos e exemplos para consulta rápida! 
 
 </div>
 
