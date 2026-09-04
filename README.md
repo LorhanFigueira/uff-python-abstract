@@ -59,7 +59,7 @@ Integer, ou  ```inteiro``` na programação é utilizado normalmente para guarda
 ```python
 x = 67 # Número sugerido pelo Arthur 
 ```
-Aqui, a variável chamada texto guarda um dado do tipo ```inteiro```.
+Aqui, a variável chamada ```x``` guarda um dado do tipo ```inteiro```.
 > um lembrete, você não deve colocar aspas duplas quando for querer o número. Se não ele irá virar um ```texto``` invés de um ```inteiro```.
 
 ### 🔣 Float (float)
