@@ -47,7 +47,7 @@ Nesse exemplo, o ```nome``` armazena o texto ```"Luiz"```, e ```idade``` armazen
 Na programação, uma variável possui um tipo de dado que determina o que ela pode armazenar.
 
 ### 🔠 String (str)
-String ou conhecido como ```texto``` na programação é utilizado normalmente para guardar um dado do tipo texto.
+String, ou ```texto``` na programação é utilizado normalmente para guardar um dado do tipo texto.
 ```python
 texto = "Paralelepípedo"
 ```
@@ -55,7 +55,7 @@ Aqui, a variável chamada texto guarda um dado do tipo ```texto```.
 > ```texto``` é tudo que está dentro de aspas duplas (" ")
 
 ### 🔢 Integer (int)
-Integer ou conhecido como ```inteiro``` na programação é utilizado normalmente para guardar um dado do tipo número inteiro, ele não guarda dado decimal.
+Integer, ou  ```inteiro``` na programação é utilizado normalmente para guardar um dado do tipo número inteiro, ele não guarda dado decimal.
 ```python
 x = 67 # Número sugerido pelo Arthur 
 ```
