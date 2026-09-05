@@ -18,8 +18,8 @@ Este repositório foi criado com o intuito de ajudar meus amigos da faculdade a 
 
 - [🐍 Fundamentos](#-fundamentos)
 - [🔢 Tipos de Dado](#-tipos-de-dado)
-- [➕ Operadores](#-operadores)
-- [🔀 Estruturas Condicionais](#-estruturas-condicionais)
+- [➕ Operadores](#-operadores) ✨ **ATUALIZADO!**
+- [🔀 Estruturas Condicionais](#-estruturas-condicionais) ✨ **ATUALIZADO!**
 - [🔁 Estruturas de Repetição](#-fundamentos) `NÃO ABORDADO`
 - [📦 Listas e Tuplas](#-fundamentos) `NÃO ABORDADO`
 - [🧩 Funções](#-fundamentos)
